@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>	//벡터를 쓰기위해
 using namespace std;
@@ -18,4 +17,3 @@ int main() {
 		cout << v[i] << endl;	//벡터의 첫번째값 즉 v[0]부터 하나씩 출력
 	}
 }
-*/
