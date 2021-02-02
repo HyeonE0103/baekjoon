@@ -13,7 +13,6 @@ int main() {
 		for (int j = 0; j < n2; j++) {
 			cin >> p2[j];
 			p2[n2] += p2[j];
-		}
 		p2[n2] = p2[n2] / n2;
 
 		for (int j = 0; j < n2; j++) {
