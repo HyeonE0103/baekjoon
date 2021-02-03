@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -10,4 +9,3 @@ int main() {
 }
 //문자형이 내부적으로는 정수로 표현됨
 //그러므로 a를 입력하면 아스키 코드에따라 'a'는 97에 대응하므로 int형으로 출력하면 97이 나오는것
-*/

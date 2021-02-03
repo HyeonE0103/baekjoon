@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -13,7 +12,6 @@ int main() {	//방법1
 	}				//문자열의 끝은 '\0'인데 마지막에 공백이 오면 단어가 아니기때문에 !=' '
 	cout << num;
 }
-*/
 /*
 int main()	//방법2
 {

@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -14,4 +13,3 @@ int main() {
 	}							//숫자의 아스키코드값이 들어가 있음.
 	cout << an << endl;			//그래서 그 아스키값에 0의 아스키값을 뺀 수가 그 수가 되므로
 }								//'0'을 빼줌 ex) '1'-'0' = 49-48 = 1
-*/

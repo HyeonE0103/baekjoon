@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -38,4 +37,3 @@ int main() {	//당황하지 말고 단어 조건만 잘 나눠보자
 	}
 	cout << num << '\n';
 }
-*/
