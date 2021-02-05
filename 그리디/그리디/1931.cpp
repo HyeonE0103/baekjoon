@@ -13,8 +13,8 @@ bool com(pair<int, int> a, pair<int, int> b) {
 
 int main() {
 	int n, a, b;
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL), cout.tie(NULL);	//속도 향샹을 위해
+	ios_base::sync_with_stdio(false);	//속도 향샹을 위해, 스트림 동기화 여부
+	cin.tie(NULL), cout.tie(NULL);		//각 IO작업전에 flush할 건지에 대한 설정
 	cin >> n;
 	vector<pair<int, int>>v;	//pair은 두개의 객체를 묶어주는 형태
 	for (int i = 0; i < n; i++) {	//vector은 컨테이너 같은 역활로 
