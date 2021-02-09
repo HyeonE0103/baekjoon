@@ -5,8 +5,7 @@ int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL), cout.tie(NULL);	//속도 향샹을 위해
 	
-	int a, b, c, v;
+	int a, b, v;
 	cin >> a >> b >> v;
-	c
-	
+	cout << (v - b - 1) / (a - b) + 1;
 }
