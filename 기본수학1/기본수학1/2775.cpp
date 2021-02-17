@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -30,4 +29,3 @@ int main() {
 	for (auto i : v)	//auto는 자동으로 타입을 찾아서 넣어줌 간단하게 백터 cout하는 법
 		cout << i << '\n';
 }
-*/

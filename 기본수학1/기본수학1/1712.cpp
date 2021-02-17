@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -12,4 +11,3 @@ int main() {
 	}	// c-b = 물건 값에서 가변비용 뺀 판매순익
 		//고정비용/판매순익을 한 후 +1을 하면 순익분기점이 넘을 때 판매량
 }
-*/
