@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 #include <climits>
 #include <vector>
@@ -28,6 +29,8 @@ int main() {
 		if (v[i])	//소수라면
 			cout << i << '\n';
 	}
+}
+	*/
 	/*
 	for (int i = m; i <= n; i++) {	//시간초과... 당연히... 에라토스테네스의 체를 이용
 		for (int j = 2; j <= i; j++) {
@@ -37,5 +40,6 @@ int main() {
 				break;
 		}
 	}
-	*/
 }
+	*/
+
