@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -38,4 +37,3 @@ int main() {
 		cout << add << '\n' << min << '\n';
 	}
 }
-*/

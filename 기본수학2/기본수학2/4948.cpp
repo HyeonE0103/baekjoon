@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <climits>
 #include <vector>
@@ -40,4 +39,3 @@ int main() {
 	for (auto i : pr_num)
 		cout << i << '\n';
 }
-*/

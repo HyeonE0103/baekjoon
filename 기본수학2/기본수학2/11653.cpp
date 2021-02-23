@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -30,4 +29,3 @@ int main() {
 	for (auto i : v)
 		cout << i << '\n';
 }
-*/

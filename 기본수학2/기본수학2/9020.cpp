@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -42,4 +41,3 @@ int main() {
 		cout << num[i] << " " << num[i + 1] << '\n';
 	}
 }
-*/

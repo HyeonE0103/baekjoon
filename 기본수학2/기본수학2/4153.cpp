@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm> //sort»ç¿ë
@@ -36,4 +35,3 @@ int main() {
 	for (auto i : check)
 		cout << i << '\n';
 }
-*/
