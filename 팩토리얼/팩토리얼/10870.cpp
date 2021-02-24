@@ -3,9 +3,9 @@
 using namespace std;
 
 int fibonacci(int n) {
-	if (n == 0)
+	if (n == 0)	//종료조건
 		return 0;
-	else if (n == 1 || n == 2)
+	else if (n == 1 || n == 2)	//종료조건
 		return 1;
 	else
 		return n = fibonacci(n - 2) + fibonacci(n - 1);
