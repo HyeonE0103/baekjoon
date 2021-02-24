@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <climits>
 using namespace std;
@@ -20,4 +19,3 @@ int main() {
 	}
 	cout << factorial(n) << endl;
 }
-*/

@@ -21,5 +21,11 @@
     <ClCompile Include="10870.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2447.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11729.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
