@@ -24,5 +24,8 @@
     <ClCompile Include="7568.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1018.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
