@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <climits>
 #include <string>
@@ -69,4 +68,3 @@ int main() {
 	cout << cor;
 	return 0;
 }
-*/

@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -30,4 +29,3 @@ int main() {
 								//M을 넘지않는 M과 최대한 가까운수
 	cout << an[an.size()-1] << '\n';
 }
-*/
