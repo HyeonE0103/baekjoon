@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -21,4 +20,3 @@ int main() {
 	for (auto i : v)
 		cout << char(i);	//i를 출력하면 아스키코드의 숫자로 나오기때문에 문자로 바꾸어서 출력
 }
-*/

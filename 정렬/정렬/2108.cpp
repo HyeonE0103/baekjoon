@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -66,4 +65,3 @@ int main() {
 	cout<< n1 << '\n' << n2 << '\n' << n3 << '\n' << n4;
 	//»ê¼úÆò±Õ Áß¾Ó°ª ÃÖºó°ª ¹üÀ§
 }
-*/

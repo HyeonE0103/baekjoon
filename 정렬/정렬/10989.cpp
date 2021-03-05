@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <algorithm>
 using namespace std;	//메모리 제한으로 인해 벡터사용x 카운팅정렬을 사용해야함
@@ -24,4 +23,3 @@ int main() {
 			cout << i << '\n';
 	}
 }
-*/
