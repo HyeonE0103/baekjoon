@@ -14,7 +14,7 @@ int main() {
 		n = y - x;	//행성간의 거리
 		while (sq * sq < n)				
 			sq++;
-		if (sq * sq - sq < n)			//제곱수 - 제곱근을 뺀수가 분기점
+		if (sq * sq - sq < n)			//제곱수 - 제곱근을 뺀수가 분기점!!
 			v.push_back(sq * 2 - 1);	//ex)제곱근 4의 제곱수 16, 16 - 4 = 12
 		else							 //12를 기점으로 12는 작동횟수가 6이고 13부터 16까지는 7
 			v.push_back(sq * 2 - 2);

@@ -8,5 +8,5 @@ int main() {
 		n = n - (i * 6);
 		num++;
 	}
-	cout << num << endl;
+	cout << num << '\n';
 }

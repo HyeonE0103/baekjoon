@@ -10,7 +10,7 @@ int main() {
 	for (int i = 0; i < t; i++) {
 		int h, w, n, an;
 		cin >> h >> w >> n;
-		while (n > h * w) {	//acm호텔이 다 찼을경우를 대비해
+		while (n > h * w) {	//acm호텔이 다 찼을경우를 대비해 
 			cout << "방이 다 차 배정할 수 없습니다. \n";
 			cin.clear();
 			cin.ignore(INT_MAX, '\n');

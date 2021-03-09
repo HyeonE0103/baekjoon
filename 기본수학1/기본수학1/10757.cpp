@@ -12,7 +12,7 @@ int main() {
 	vector<int>a, b, c;
 	cin >> n1 >> n2;
 	if (n1.size() >= b.size()) {
-		for (int i = n1.size() - 1; i >= 0; i--)	//문자열이기 때문에 마지막은 \0
+		for (int i = n1.size() - 1; i >= 0; i--)	//문자열이기 때문에 마지막은 '\0'
 			a.push_back(n1[i] - '0');
 		for (int i = n2.size() - 1; i >= 0; i--)
 			b.push_back(n2[i] - '0');
